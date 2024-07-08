@@ -1,0 +1,5 @@
+itables==2.1.4
+list-packages==1.0.8
+matplotlib==3.9.1
+pandas==2.2.2
+seaborn==0.13.2
